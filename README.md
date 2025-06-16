@@ -12,7 +12,7 @@ As of May 2025, we have the following three language pairs:
 - Chuvash-Russian (`chv-ru`)
 
 Additionally, we provide the code used to convert the raw files into the BUCC-style datasets (in the `code` folder).
-
+The `corpus_creation_demo.ipynb` notebook shows the whole process starting from the raw files (as in the `raw_data` format).
 
 ## Licence
 Please note that each language pair corpus has a different licence.
